@@ -1,8 +1,11 @@
 /Codeforces/*.exe
 /Codeforces/*.o
+/Codeforces/*.txt
 /UVa/*.exe
 /UVa/*.o
+/UVA/*.txt
 /Codeforces/990*
 /Codeforces/989B*
 /Codeforces/989C*
 /INC 2017/*
+/UVA/temp*
